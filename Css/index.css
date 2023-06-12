@@ -1,0 +1,186 @@
+.header {
+   height: 100vh;
+   width: 1210px;
+   background-image: url('../images/ttttttttt.jpg'), linear-gradient(hsl(0, 0%, 0%), rgb(0, 0, 0));
+
+   background-repeat: no-repeat;
+   margin: 0px;
+   padding: 0px;
+
+}
+
+.banner-title {
+   padding: 10%;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   color: lavender;
+}
+
+.bannar-description {
+   font-size: 400%;
+   margin: 0px;
+   text-shadow: 1cm;
+   padding: 0px 70px;
+
+}
+
+.span-color {
+   color: darkgreen;
+}
+
+.btn {
+   padding: 10px 35px;
+   border: 0px;
+   border-radius: 8px;
+   background-color: darkgreen;
+   color: aliceblue;
+}
+
+.counts {
+   display: flex;
+   justify-content: space-around;
+   padding: 0px 70px;
+   margin: 0px 200px;
+
+}
+
+.counts h4 {
+   background-color: darkgreen;
+   padding: 30px 30px;
+   gap: 10px;
+   border-radius: 8px;
+   color: aliceblue;
+   font-size: x-large;
+
+}
+
+.title-dom {
+   text-align: center;
+}
+
+.dom-description {
+   text-align: center;
+}
+
+.d-count:hover {
+   background-color: pink;
+   border: 2px solid cornsilk;
+}
+
+.input-dom {
+   border: 0px;
+   margin-left: 45%;
+}
+
+.hr {
+   margin: 0px 20%;
+}
+
+.family-icons {
+   display: flex;
+
+   width: 800px;
+   gap: 20px;
+   height: auto;
+   margin-left: 15%;
+
+
+}
+
+.family {
+   text-align: center;
+}
+
+.family-description {
+
+   margin: 20px 350px;
+}
+
+.family h2 {
+   font-size: xx-large;
+   margin: 50px 0px 10px 0px;
+}
+
+.img-famiy {
+   width: 50px;
+}
+
+.family-icon {
+   background-color: rgba(0, 128, 0, 0.535);
+   border-radius: 8px;
+   padding: 10px 0px 3px 15px;
+
+}
+
+.family-icon-2 {
+   background-color: rgba(255, 192, 203, 0.704);
+   border-radius: 8px;
+   padding: 10px 0px 3px 15px;
+}
+
+.main-page {
+   display: flex;
+   padding: 0px 80px;
+   background-color: azure;
+   box-shadow: 300px;
+   margin: 50px 40px 80px 40px;
+   gap: 40px;
+
+}
+
+.img-main-page img {
+   margin-top: 25px;
+   border-radius: 10px;
+   height: 10px;
+   width: 356px;
+   height: 250px;
+   left: 732px;
+   top: 2078px;
+}
+
+.main-page-description {
+   width: 50%;
+   padding: 0px 50px;
+}
+
+.main-page-btn {
+   padding: 10px 35px;
+   border: 0px;
+   border-radius: 8px;
+   background-color: darkgreen;
+   color: aliceblue;
+}
+
+.footer-page {
+   text-align: center;
+   border-radius: 10px;
+   margin: auto;
+   background-color: rgba(255, 228, 196, 0.539);
+   width: 800px;
+   height: auto;
+   padding: 15px 5px;
+}
+.footer-title{
+   margin: 0px;
+}
+
+.footer-input input {
+   width: 250px;
+   height: 30px;
+   margin: 0px;
+   border: 0px;
+   padding: 2px 0px 2px 5px;
+
+   background: #D9D9D9;
+   border-radius: 5px;
+}
+
+.footer-btn {
+   padding: 10px 35px;
+   border: 0px;
+   margin: 0px;
+   border-radius: 5px;
+   background-color: darkgreen;
+   color: aliceblue;
+}
